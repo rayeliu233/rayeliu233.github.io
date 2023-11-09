@@ -1,7 +1,7 @@
-## Personal website for Haoming Shi
+## Personal website for Raye Liu
 
-This is the personal website source code for Haoming Shi. <br />
-This website was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).<br />
+This is the personal website source code for Raye Liu. <br />
+This website was bootstrapped with [Create React App](https://github.com/rayeliu233/rayeliu233.github.io/).<br />
 Current react version: 18.2.0, Node.js version: v16.1.0.
 
 ## Available scripts to run local demo
