@@ -16,14 +16,14 @@ const educationData = [
   },
   {
     id: 2,
-    title: "Master of Engineering in Computer Science,",
+    title: "Master of Engineering in Computer Science",
     years: "Sept 2022 - May 2023",
     content:
       "Cornell Univerity, NY",
   },
   {
     id: 3,
-    title: "Bachelor of Science in Operations Research & Information Engineering,",
+    title: "Bachelor of Science in Operations Research & Information Engineering",
     years: "Sept 2018 - May 2022",
     content:
       "Cornell Univerity, NY",
