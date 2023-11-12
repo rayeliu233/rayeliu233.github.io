@@ -11,7 +11,7 @@ const servicesData = [
   {
     id: 1,
     title: "Deep Learning",
-    color: "#a7b8a0",
+    color: "#83A78D",
     contentColor: "light",
   },
   {
@@ -28,19 +28,19 @@ const servicesData = [
   },
   {
     id: 4,
-    title: "Dimensionality Reduction",
+    title: "Dimensionality Reduction & Big Messy Data",
     color: "#b9d2c5",
     contentColor: "dark",
   },
   {
     id: 5,
     title: "Natural Language Processing",
-    color: "#a7b8a0",
+    color: "#83A78D",
     contentColor: "dark",
   },
   {
     id: 6,
-    title: "Audio Signal Processing",
+    title: "Audio Signal Processing & Video Analysis",
     color: "#497566",
     contentColor: "dark",
   },
