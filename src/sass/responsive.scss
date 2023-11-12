@@ -131,7 +131,8 @@ only screen and (min-device-pixel-ratio: 1.5){
 	body.dark {
 		.triangle-left-md {
 			&:before {
-				border-right-color: #132c33;
+				// border-right-color: #132c33;
+				border-right-color: transparent;
 			}
 		}
 	}
